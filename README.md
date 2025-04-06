@@ -1,9 +1,9 @@
-# 🌐 Getnetsh's Personal Website
+# 🌐 Brhane's Personal Website
 
 Welcome to my personal website! 🚀 This is where I showcase my portfolio, projects, and skills.
 
 ## 🔗 Live Website
-👉 **[getnetsh.github.io](https://getnetsh.github.io/)**
+👉 **[brhane.github.io](https://brhane.github.io/)**
 
 ---
 
